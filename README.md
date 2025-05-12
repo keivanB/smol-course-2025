@@ -2,6 +2,8 @@
 
 # a smol course
 
+This is my fork of the repo going through the course and changing things as I see.
+
 This is a practical course on aligning language models for your specific use case. It's a handy way to get started with aligning language models, because everything runs on most local machines. There are minimal GPU requirements and no paid services. The course is based on the [SmolLM2](https://github.com/huggingface/smollm/tree/main) series of models, but you can transfer the skills you learn here to larger models or other small language models.
 
 <a href="http://hf.co/join/discord">
